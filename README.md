@@ -1,5 +1,5 @@
 
-### [AI4all - Intel·ligència artificial aplicada a la indústria (UAB / IIIA CSIC)](https://github.com/bavba/Quantum_computing/tree/main/AI4all)
+### [AI4all - Intel·ligència artificial aplicada a la indústria (UAB & IIIA CSIC)](https://github.com/bavba/Quantum_computing/tree/main/AI4all)
 
 
 Tech Stack:
